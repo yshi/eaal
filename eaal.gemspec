@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{eaal}
-  s.version = "0.1.7.20120623"
+  s.version = "0.1.7.20120623.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = [%q{Peter Petermann}]
